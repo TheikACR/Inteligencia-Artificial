@@ -79,4 +79,17 @@
 	</template>
 </category>
 
+
+<!--by jafelitogamer-->
+<category>
+    <pattern>*</pattern>
+    <template>
+        <random>
+            <li>No entiendo que quieres decir.</li>
+            <li>No comprendo lo que escribes.</li>
+            <li>Comando incorrecto o inexistente.</li>
+        </random>
+    </template>
+</category>
+
 </aiml>
