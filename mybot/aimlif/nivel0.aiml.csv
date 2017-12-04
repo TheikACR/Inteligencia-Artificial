@@ -1,0 +1,9 @@
+0,^ HOLA ^,*,*,Hola#Comma ¿que tal?,nivel0.aiml
+0,* Y TU,*,*,<random>#Newline    		<li>me encuentro genial la verdad</li>#Newline    		<li>hoy me encuentro un poco triste sinceramente</li>#Newline    	</random>,nivel0.aiml
+0,^ COMO TE LLAMAS ^,*,*,me llamo <bot name="name"/>,nivel0.aiml
+0,^ ME LLAMO *,*,*,<think>#Newline  	<set name="nombre_humano"><star index="2"/></set>#Newline  	</think>#Newline	<condition name="nombre_humano">#Newline		<li value="Raul">anda que casualidad como el profesor de IA de alguien que yo me se</li>#Newline   		<li>Vaya <get name="nombre_humano"/>#Comma yo me llamo <bot name="name"/></li>#Newline	</condition>,nivel0.aiml
+0,^ COMO ^ ME LLAM+ ^,*,*,<condition name="nombre_humano">#Newline			<li value="unknown">no me lo has dicho y por tanto lo desconozco</li>#Newline			<li>te llamas <get name="nombre_humano"/></li>#Newline		</condition>,nivel0.aiml
+0,^ MI NOMBRE ^,*,*,<srai>^ como ^ me llam+ ^</srai>,nivel0.aiml
+0,^ GRACIAS ^,*,*,De nada gracias a ti,nivel0.aiml
+0,[PERDON+ DISCULP+],*,*,No pasa nada tranquilo,nivel0.aiml
+0,^ ADIOS ^,*,*,<random>#Newline    		<li>Hasta luego!!</li>#Newline    		<li>Nos vemos pronto!</li>#Newline    </random>,nivel0.aiml
