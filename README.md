@@ -1,4 +1,4 @@
-# Inteligencia-Artificial
+# Inteligencia Artificial
 
 - belkan1 contiene una posible solución para el problema de los Mundos de Belkan mediante un agente Reactivo.  
 Programado en C++.
