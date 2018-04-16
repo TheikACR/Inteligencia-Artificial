@@ -1,5 +1,7 @@
 # Inteligencia Artificial
 
+## Prácticas de la asignatura IA en la UGR
+
 - belkan1 contiene una posible solución para el problema de los Mundos de Belkan mediante un agente Reactivo.  
 Programado en C++.
 
