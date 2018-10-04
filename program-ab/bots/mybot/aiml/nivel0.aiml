@@ -79,4 +79,20 @@
 	</template>
 </category>
 
+<!-- Otras reglas -->
+<category>
+	<pattern>*</pattern>
+	<template>
+	<random>
+    		<li>No entiendo tu comando.</li>
+    		<li>Prueba con otro comando.</li>
+    </random>
+	</template>
+</category>
+
+<category>
+	<pattern>pim pam</pattern>
+	<template>trucu trucu</template>
+</category>
+
 </aiml>
